@@ -1481,7 +1481,7 @@
         "declined": "Declined"
       },
       "atsDrawer": {
-        "heading": "Score Details"
+        "heading": "Olivia’s Candidate Score"
       },
       "allApplicants": "All applicants",
       "allFoundApplicants": "All found applicants",
@@ -2846,6 +2846,8 @@
       "faq": "FAQ"
     },
     "employers": {
+      "dashboard": "dashboard",
+      "jobs": "My Jobs",
       "employers": "employers",
       "forEmployers": "For Employers",
       "emiratisation": "Emiratisation",
